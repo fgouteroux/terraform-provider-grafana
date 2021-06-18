@@ -9,7 +9,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/terraform"
 
-	gapi "github.com/grafana/grafana-api-golang-client"
+	gapi "github.com/fgouteroux/grafana-api-golang-client"
 )
 
 func TestAccUser_basic(t *testing.T) {

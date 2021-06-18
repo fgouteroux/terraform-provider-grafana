@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	gapi "github.com/grafana/grafana-api-golang-client"
+	gapi "github.com/fgouteroux/grafana-api-golang-client"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )

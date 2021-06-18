@@ -14,7 +14,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/logging"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 
-	gapi "github.com/grafana/grafana-api-golang-client"
+	gapi "github.com/fgouteroux/grafana-api-golang-client"
 	smapi "github.com/grafana/synthetic-monitoring-api-go-client"
 )
 
@@ -97,6 +97,7 @@ func Provider(version string) func() *schema.Provider {
 				"grafana_role":                    ResourceRole(),
 				"grafana_team":                    ResourceTeam(),
 				"grafana_team_preferences":        ResourceTeamPreferences(),
+				"grafana_team_external_group":     ResourceTeamExternalGroup(),
 				"grafana_user":                    ResourceUser(),
 			},
 		}

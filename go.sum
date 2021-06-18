@@ -253,6 +253,14 @@ github.com/facette/natsort v0.0.0-20181210072756-2cd4dd1e2dcb/go.mod h1:bH6Xx7IW
 github.com/fatih/color v1.7.0 h1:DkWD4oS2D8LGGgTQ6IvwJJXSL5Vp2ffcQg58nFV38Ys=
 github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
 github.com/fatih/structtag v1.1.0/go.mod h1:mBJUNpUnHmRKrKlQQlmCrh5PuhftFbNv8Ys4/aAZl94=
+github.com/fgouteroux/grafana-api-golang-client v0.0.0-20210609221621-5181ce3ac670 h1:cjCz+LJ0hKraDqWCRa9HnURt7eEbspcbjJWwSrOnVWI=
+github.com/fgouteroux/grafana-api-golang-client v0.0.0-20210609221621-5181ce3ac670/go.mod h1:24W29gPe9yl0/3A9X624TPkAOR8DpHno490cPwnkv8E=
+github.com/fgouteroux/grafana-api-golang-client v0.0.0-20210617130128-5e59adc96544 h1:r7gWrCr7NqNGDuM1IdVd+jqoAxJx9xLK52vbMk7Xlu4=
+github.com/fgouteroux/grafana-api-golang-client v0.0.0-20210617130128-5e59adc96544/go.mod h1:pRZe5hXtkNhUz2L/21S2sdQOI1vwOL+cH4W7DmRCm0Q=
+github.com/fgouteroux/grafana-api-golang-client v0.0.0-20210618075903-2c7923b1c2d8 h1:h1Ku57xxh+8u84zjqVWHtOZj3xG3qbwEmBmfSjAFdlg=
+github.com/fgouteroux/grafana-api-golang-client v0.0.0-20210618075903-2c7923b1c2d8/go.mod h1:pRZe5hXtkNhUz2L/21S2sdQOI1vwOL+cH4W7DmRCm0Q=
+github.com/fgouteroux/grafana-api-golang-client v0.0.0-20210618112623-c8582dc5adf5 h1:yCYhcbhbBSQxSWN70Uc04230d/+TR7f4WwiLdDLWtmw=
+github.com/fgouteroux/grafana-api-golang-client v0.0.0-20210618112623-c8582dc5adf5/go.mod h1:pRZe5hXtkNhUz2L/21S2sdQOI1vwOL+cH4W7DmRCm0Q=
 github.com/fluent/fluent-bit-go v0.0.0-20190925192703-ea13c021720c/go.mod h1:WQX+afhrekY9rGK+WT4xvKSlzmia9gDoLYu4GGYGASQ=
 github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568/go.mod h1:xEzjJPgXI435gkrCt3MPfRiAkVrwSbHsst4LCFVfpJc=
 github.com/fortytw2/leaktest v1.3.0/go.mod h1:jDsjWgpAGjm2CA7WthBh/CdZYEPF31XHquHwclZch5g=
@@ -458,8 +466,6 @@ github.com/gorilla/mux v1.7.1/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2z
 github.com/gorilla/mux v1.7.3/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
 github.com/gorilla/websocket v0.0.0-20170926233335-4201258b820c/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
 github.com/gorilla/websocket v1.4.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
-github.com/grafana/grafana-api-golang-client v0.0.0-20210609221621-5181ce3ac670 h1:cjCz+LJ0hKraDqWCRa9HnURt7eEbspcbjJWwSrOnVWI=
-github.com/grafana/grafana-api-golang-client v0.0.0-20210609221621-5181ce3ac670/go.mod h1:24W29gPe9yl0/3A9X624TPkAOR8DpHno490cPwnkv8E=
 github.com/grafana/loki v1.5.0/go.mod h1:LoxeHyWIoFue9p8S5vwPqDNCet8u8uaKW2Dv7mPaly4=
 github.com/grafana/synthetic-monitoring-agent v0.0.22 h1:PKQfmCjSMz3qWhY54l7sTpjQOXhCnGbLTPOtrflwRkM=
 github.com/grafana/synthetic-monitoring-agent v0.0.22/go.mod h1:xKQ3cTCnHxONFXvw1OMTKD0K/VIXbWaISyAWEuPakAA=
